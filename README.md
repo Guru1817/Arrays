@@ -45,21 +45,33 @@ Arrays/
 Navigate to the project folder:
 
 bash
+
 cd Arrays
+
 Compile the Java files:
+
 javac src/*.java
+
 Run the program:
+
 java src.Main
+
 📸 Example Output
+
 makefile
-Copy
-Edit
+
 Array Elements: 10 20 30 40 50
+
 Maximum: 50
+
 Minimum: 10
+
 Sum = 150
+
 Average = 30.0
+
 📌 Future Enhancements
+
 Add dynamic array implementation (like ArrayList)
 
 Add more searching/sorting algorithms (QuickSort, MergeSort)
@@ -67,7 +79,9 @@ Add more searching/sorting algorithms (QuickSort, MergeSort)
 Add unit tests with JUnit
 
 🤝 Contributing
+
 Contributions are welcome!
+
 Steps:
 
 Fork the repo
